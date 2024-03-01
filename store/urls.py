@@ -22,5 +22,5 @@ urlpatterns = [
 
 ]
 admin.site.site_header = "PetsGet"
-admin.site.site_title = "Admin Portal"
-admin.site.index_title = "Admin Portal"
+admin.site.site_title = "PetsGet Portal"
+admin.site.index_title = "PetsGet Portal"
