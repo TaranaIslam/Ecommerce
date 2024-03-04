@@ -3,7 +3,6 @@ from django.contrib.auth.hashers import  check_password
 from store.models.customer import Customer
 from django.views import View
 
-
 class Login(View):
     return_url = None
 
